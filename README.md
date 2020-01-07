@@ -1,2 +1,2 @@
 # SearchSampleObjectiveC
-Search Sample Swift
+Search Sample in table view using Objective C
